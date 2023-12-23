@@ -10,7 +10,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "Tous les champs doivent être remplis.";
     } else {
         // Envoyer l'e-mail
-        $to = "@email.com";
+        $to = "lucas.laurent@sts-sio-caen.info";
         $sujet = "Nouveau message de $nom - $objet";
         $messageEmail = "De: $nom\nAdresse e-mail: $email\nObjet: $objet\n\nMessage:\n$message";
 
