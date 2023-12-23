@@ -27,7 +27,7 @@
 
     <!-- Ajoutez le widget reCAPTCHA -->
     <div class="form-group">
-      <div class="g-recaptcha" data-sitekey="VOTRE_CLE_RECAPTCHA"></div>
+      <div class="g-recaptcha" data-sitekey="6LeAmjopAAAAACW8Wv0XCBhjXFnRaDp2ULBmqI4h"></div>
     </div>
 
     <button type="submit" class="btn btn-primary">Envoyer</button>
